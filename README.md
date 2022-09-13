@@ -9,4 +9,7 @@ mit license
 Junemo Kang
 ## BUG REPORT
 
+## Purpose
+Learning
+
 
