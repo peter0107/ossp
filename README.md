@@ -12,4 +12,7 @@ Junemo Kang
 ## Purpose
 Learning
 
+## My Job
+College student
+
 
