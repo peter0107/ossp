@@ -1,0 +1,26 @@
+{
+  "name": "ossp",
+  "version": "1.0.0",
+  "description": "new content",
+  "main": "main.js",
+  "scripts": {
+    "test": "\"hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter0107/ossp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter0107/ossp/issues"
+  },
+  "homepage": "https://github.com/peter0107/ossp#readme",
+  "bin": {
+    "notice": "main.js"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.4",
+    "ossp": "file:ossp-1.0.0.tgz"
+  }
+}
